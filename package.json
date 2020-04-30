@@ -1,7 +1,7 @@
 {
 	"name": "post-bank",
 	"version": "1.0.0",
-	"description": "Заявка на отправку почты",
+	"description": "Г‡Г ГїГўГЄГ  Г­Г  Г®ГІГЇГ°Г ГўГЄГі ГЇГ®Г·ГІГ»",
 	"author": "IGORock",
 	"scripts": {
 		"dev": "webpack-dev-server --hot --open",
@@ -20,7 +20,7 @@
 		"rxjs": "^6.5.2",
 		"zone.js": "^0.9.1",
 		"bootstrap": "^4.3.1",
-		"jquery": "3.4.1",
+		"jquery": "3.5.0",
 		"jsdom": "15.1.1",
 		"dom-parser": "0.1.6"
 	},
